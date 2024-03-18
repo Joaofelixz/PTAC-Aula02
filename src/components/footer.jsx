@@ -1,9 +1,9 @@
-export default function footer(){
+export default function Footer(){
     
     return(
         
-        <footer>
+        <Footer>
             <h1>comf</h1>
-        </footer>
+        </Footer>
     );
 }

@@ -1,8 +1,9 @@
-Header{
+h1
+{
     height: 100px;
     background-color: aquamarine;
 }
-Footer{
+footer{
     height: 100px;
     background-color: green;
 }
