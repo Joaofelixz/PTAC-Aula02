@@ -1,8 +1,8 @@
 export default function Header(){
     
     return(
-        <Header>
+        <header>
             <h1>Cabeçalio</h1>
-        </Header>
+        </header>
     );
 }

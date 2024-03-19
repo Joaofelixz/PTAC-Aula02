@@ -2,8 +2,8 @@ export default function Footer(){
     
     return(
         
-        <Footer>
-            <h1>comf</h1>
-        </Footer>
+        <footer>
+            <h1>João</h1>
+        </footer>
     );
 }

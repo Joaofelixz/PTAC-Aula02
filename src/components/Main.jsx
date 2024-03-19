@@ -2,16 +2,18 @@ import { useState } from "react";
 
 export default function Main(){
 
-    cost [nome,setNome] = useState("")
+    const [nome, setNome] = useState("");
 
     return(
-        <main>
-        <input type="text"
+     <main>
+        <input 
+        type="text"
         name=""
         id=""
-        anChange={(event)=> SVGAnimateTransformElement(event.target.value)}/>
-        {nome}
+        anChange={(event)=> SVGAnimateTransformElement(event.target.value)}
+        />
 
-        </main>
-    );
+        {nome}
+   </main>
+  );
 }
