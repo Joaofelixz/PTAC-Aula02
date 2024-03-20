@@ -1,8 +1,11 @@
 Header{
     height: 100px;
-    background-color: aquamarine;
+    background-color:#00BFFF ;
+    text-align: center;
+
 }
 Footer{
     height: 100px;
-    background-color: blue;
+    background-color: #00BFFF;
+    text-align: center;
 }

@@ -2,7 +2,7 @@ export default function Header(){
     
     return(
         <header>
-            <h1>Cabeçalio</h1>
+            <h1>Agenda telefonica</h1>
         </header>
     );
 }
